@@ -47,7 +47,7 @@ Please install or have installed the following:
 
 ```bash
    yarn
-   cs smart-contract
+   cd smart-contract
    yarn
 ```
 
