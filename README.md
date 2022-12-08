@@ -16,6 +16,8 @@
 
 ---
 
+Upgrading it to ETH2.0, deployed version may not work as expected at the moment!
+
 ## Summary
 
 This is a decentralized e-commerce website, that recreates what amazon may look like on web3. The app has the following functions:
