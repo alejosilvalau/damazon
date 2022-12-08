@@ -16,7 +16,7 @@
 
 ---
 
-Upgrading it to ETH2.0, deployed version may not work as expected at the moment!
+Currently deployed on Rinkeby. Upgrading it to ETH2.0, deployed version may not work as expected at the moment!
 
 ## Summary
 
